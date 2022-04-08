@@ -29,6 +29,6 @@
 <!-- Contact Me -->
 <p align="center">
     <samp>
-      <a href="http://instagram.com/hxst1"><img href="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=fff" alt="instagram"></a>
+      <a href="http://instagram.com/hxst1" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=fff" alt="instagram"></a>
     </samp>
 </p>
