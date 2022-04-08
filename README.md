@@ -34,7 +34,7 @@
       <a href="https://www.linkedin.com/in/edu-ruiz-cantos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/hxst1" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/ruizcantosps?si=739fe2c9839f42fb" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://www.hackthebox.eu/profile/240822"><script src="https://www.hackthebox.eu/badge/240822"></script></a>
+<a target ="_blank" href="https://www.hackthebox.eu/profile/240822">
       <h2></h2><br>
     </samp>
 </p>
