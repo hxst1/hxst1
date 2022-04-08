@@ -44,12 +44,12 @@
       <details>
   <summary>Skills</summary>
       <br/>
-        - 👨‍💻 TypeScript, JavaScript, HTML
-        - ⚙️ React, Next.js, Redux
-        - 👁️ SASS, CSS
-        - 💽 MongoDB, Node.js , Mongoose
-        - ⚠️ Unit Testing, Jest
-        - 💅🏻 Figma
+        <p>👨‍💻 TypeScript, JavaScript, HTML</p>
+        <p>⚙️ React, Next.js, Redux</p>
+       <p>👁️ SASS, CSS</p>
+        <p>💽 MongoDB, Node.js , Mongoose</p>
+        <p>⚠️ Unit Testing, Jest</p>
+        <p>💅🏻 Figma</p>
       <br/>
     </details>
     <details>
