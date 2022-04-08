@@ -29,6 +29,7 @@
 <!-- Contact Me -->
 <p align="center">
     <samp>
+        <h3>Social Media</h3>
       <a href="http://instagram.com/hxst1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" alt="instagram"></a>
         <a href="http://twitter.com/_hxst" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
         <a href="https://discord.com/users/398174691027714059" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
