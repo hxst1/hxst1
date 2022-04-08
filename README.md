@@ -41,6 +41,17 @@
 <!-- Github Stats -->
 <p align="center">
   <samp>
+      <details>
+  <summary>Skills</summary>
+      <br/>
+        - 👨‍💻 TypeScript, JavaScript, HTML
+        - ⚙️ React, Next.js, Redux
+        - 👁️ SASS, CSS
+        - 💽 MongoDB, Node.js , Mongoose
+        - ⚠️ Unit Testing, Jest
+        - 💅🏻 Figma
+      <br/>
+    </details>
     <details>
   <summary>My Profile Stats</summary>
       <br/>
