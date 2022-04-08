@@ -5,7 +5,7 @@
             <b>
             Hello There
         <br>
-            I'm hxst enthusiastic about programming and cybersecurity.
+            I'm hxst, programming and cybersecurity enthusiast.
             </b>
         <br>
         <br>
@@ -40,22 +40,20 @@
 
 <!-- Github Stats -->
 <p align="center">
-    <samp>
-<details>
+  <samp>
+    <details>
   <summary>My Profile Stats</summary>
-  <br/>
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxst1&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/>
-  <br/>
-</details>
-
-<details> 
-  <summary>My Most Used Languages</summary>
-  <br/>
+      <br/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxst1&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/>
+      <br/>
+    </details>
+    <details> 
+      <summary>My Most Used Languages</summary>
+        <br/>
           <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxst1&layout=compact&hide_border=true&theme=nord"/>
-  <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br/>
-</details>
-    </samp>
+        <br/>
+        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+      <br/>
+    </details>
+  </samp>
 </p>
-</details>
