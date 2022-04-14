@@ -46,8 +46,8 @@
       <br/>
         <p>👨‍💻 TypeScript, JavaScript, HTML</p>
         <p>⚙️ React, Next.js, Redux</p>
-       <p>👁️ SASS, CSS</p>
-        <p>💽 MongoDB, Node.js , Mongoose</p>
+       <p>👁️ SASS, CSS, Bootstrap</p>
+        <p>💽 MongoDB, Node.js , Mongoose, Express</p>
         <p>⚠️ Unit Testing, Jest</p>
         <p>💅🏻 Figma</p>
       <br/>
