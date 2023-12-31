@@ -15,7 +15,7 @@
             ~ Edu Ruiz ~
             </b>
             <br>
-            [portfolio](https://eya.im/) 
+            https://eya.im/
         <br>
       </samp><br>
     </p>
