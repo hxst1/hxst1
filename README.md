@@ -20,14 +20,12 @@
 <p align="center">
   <samp>
     <a href="https://edu-ruiz-portfolio.vercel.app/">edu-ruiz-portfolio.vercel.app</a>
-    &nbsp;|&nbsp;
-    <a href="https://eya.im/">eya.im</a>
   </samp>
 </p>
 
 <br>
 
-<p align="right">
+<p align="center">
   <strong><samp>「 STATUS: AVAILABLE FOR OPPORTUNITIES 」</samp></strong>
 </p>
 
@@ -157,16 +155,15 @@
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=hxst1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+    src="https://github-stats-extended.vercel.app/api?username=hxst1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
     alt="GitHub Stats"
   />
 
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxst1&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=hxst1&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
     alt="Top Languages"
   />
-</p>
 
 <p align="center">
   <samp>
@@ -191,21 +188,21 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+  <a href="https://www.linkedin.com/in/edu-ruiz-cantos/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="https://x.com/TU_USUARIO">
+  <a href="https://x.com/_hxst">
     <img
       src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=ffffff"
       alt="X"
     />
   </a>
 
-  <a href="https://instagram.com/TU_USUARIO">
+  <a href="https://instagram.com/edu.r__">
     <img
       src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"
       alt="Instagram"
