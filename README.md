@@ -1,27 +1,26 @@
-<!-- Profile Header -->
 <p align="left"><strong><samp>「 0x01 // INITIALIZING PERF 」</samp></strong></p>
-<p align="center">
-  <samp>
-    <br>
-    <b>Hello World, I'm hxst</b>
-    <br>
-    <br>
-    <img src="https://herokuapp.com...">
-    <br>
-    <b>~ Edu Ruiz ~</b>
-    <br>
-    <a href="https://edu-ruiz-portfolio.vercel.app/">edu-ruiz-portfolio.vercel.app</a> | <a href="https://eya.im">eya.im</a>
-    <br>
-  </samp>
-</p>
-<p align="right"><strong><samp>「 STATUS: AVAILABLE FOR OPPORTUNITIES 」</samp></strong></p>
+
+<!-- Título e Introducción -->
+<div align="center">
+  <samp><b>Hello World, I'm hxst</b></samp>
+  <br><br>
+  <img src="https://herokuapp.com...">
+  <br>
+  <samp><b>~ Edu Ruiz ~</b></samp>
+  <br><br>
+  <samp><a href="https://vercel.app">edu-ruiz-portfolio.vercel.app</a> | <a href="https://eya.im">eya.im</a></samp>
+</div>
 
 <br>
+<p align="right"><strong><samp>「 STATUS: AVAILABLE FOR OPPORTUNITIES 」</samp></strong></p>
+<br>
 
-<!-- Interactive Trophies (Cyberpunk Style) -->
-<p align="center">
-  <a href="https://github.com"><img src="https://vercel.app" alt="hxst1 trophies" /></a>
-</p>
+<!-- Trofeos Dinámicos -->
+<div align="center">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="hxst1 trophies" />
+  </a>
+</div>
 
 <br>
 
@@ -79,13 +78,13 @@
 <details>
 <summary><samp>📊 0x04 // System Metrics</samp></summary>
 <br>
-<p align="center">
+<div align="center">
   <img alt="GitHub Stats" src="https://vercel.app"/>
   <br><br>
   <img alt="Top Languages" src="https://vercel.app"/>
   <br>
   <samp><small><i>Note: Language metrics only represent public code repositories and do not cap absolute experience.</i></small></samp>
-</p>
+</div>
 </details>
 
 <!-- COMMS / SOCIALS -->
