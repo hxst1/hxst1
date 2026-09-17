@@ -1,26 +1,30 @@
-<p align="left"><strong><samp>「 0x01 // INITIALIZING PERF 」</samp></strong></p>
+# <p align="left"><strong><samp>「 0x01 // INITIALIZING PERF 」</samp></strong></p>
 
-<!-- Título e Introducción -->
-<div align="center">
+<p align="center">
   <samp><b>Hello World, I'm hxst</b></samp>
-  <br><br>
-  <img src="https://herokuapp.com...">
-  <br>
+</p>
+
+<!-- SVG de Escritura Optimizado y con Servidor Actualizado -->
+<p align="center">
+  <img src="https://demolab.com..." alt="hxst1 typing svg" />
+</p>
+
+<p align="center">
   <samp><b>~ Edu Ruiz ~</b></samp>
   <br><br>
-  <samp><a href="https://vercel.app">edu-ruiz-portfolio.vercel.app</a> | <a href="https://eya.im">eya.im</a></samp>
-</div>
+  <samp><a href="https://edu-ruiz-portfolio.vercel.app/">edu-ruiz-portfolio.vercel.app</a> | <a href="https://eya.im">eya.im</a></samp>
+</p>
 
 <br>
 <p align="right"><strong><samp>「 STATUS: AVAILABLE FOR OPPORTUNITIES 」</samp></strong></p>
 <br>
 
-<!-- Trofeos Dinámicos -->
-<div align="center">
+<!-- Trofeos Dinámicos (Corregidos en un párrafo nativo) -->
+<p align="center">
   <a href="https://github.com">
     <img src="https://vercel.app" alt="hxst1 trophies" />
   </a>
-</div>
+</p>
 
 <br>
 
@@ -78,13 +82,13 @@
 <details>
 <summary><samp>📊 0x04 // System Metrics</samp></summary>
 <br>
-<div align="center">
+<p align="center">
   <img alt="GitHub Stats" src="https://vercel.app"/>
   <br><br>
   <img alt="Top Languages" src="https://vercel.app"/>
   <br>
   <samp><small><i>Note: Language metrics only represent public code repositories and do not cap absolute experience.</i></small></samp>
-</div>
+</p>
 </details>
 
 <!-- COMMS / SOCIALS -->
