@@ -26,12 +26,6 @@
 <br>
 
 <p align="center">
-  <strong><samp>「 STATUS: AVAILABLE FOR OPPORTUNITIES 」</samp></strong>
-</p>
-
-<br>
-
-<p align="center">
   <a href="https://github.com/hxst1">
     <img
       src="https://github-profile-trophy.vercel.app/?username=hxst1&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6"
