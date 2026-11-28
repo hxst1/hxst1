@@ -1,100 +1,27 @@
-<!-- ═══════════════════════════  HXST1 :: PROFILE  ═══════════════════════════ -->
-
 <p align="center">
   <a href="https://edu-ruiz-portfolio.vercel.app/">
-    <img src="./assets/terminal.svg" width="100%" alt="guest@github:~$ neofetch --user hxst1" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
+      <img src="./assets/hero-light.png" width="100%" alt="Eduardo Ruiz. Software engineer. Building software across the stack, from web applications to desktop tools and low-level systems. Relocating to Dublin in February 2027.">
+    </picture>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://edu-ruiz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0a0e14?style=for-the-badge&logo=vercel&logoColor=00ff9c&labelColor=0a0e14&color=0a0e14" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/edu-ruiz-cantos/"><img src="https://img.shields.io/badge/linkedin-0a0e14?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn" /></a>
-  <a href="https://x.com/_hxst"><img src="https://img.shields.io/badge/x.com-0a0e14?style=for-the-badge&logo=x&logoColor=00ff9c" alt="X" /></a>
-  <a href="https://instagram.com/edu.r__"><img src="https://img.shields.io/badge/instagram-0a0e14?style=for-the-badge&logo=instagram&logoColor=00ff9c" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=hxst1&label=visitors&color=00ff9c&style=for-the-badge&abbreviated=true" alt="Profile views" />
+  <a href="https://edu-ruiz-portfolio.vercel.app/">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/edu-ruiz-cantos/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:ruizcantosps@gmail.com">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/_hxst">X</a>
 </p>
 
 <br>
 
-## <samp>&gt; whoami</samp>
-
-```yaml
-user:      Edu Ruiz  # aka hxst
-role:      Full-Stack Developer
-building:  tools for developers — fast, focused, zero bloat
-into:      agent-first workflows · emulation & low-level · DX
-currently: shipping Beacon-Split, a workspace for Claude Code sessions
-motto:     build → ship → iterate → repeat
-```
-
-## <samp>&gt; ls -la ./projects</samp>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <samp><b>▸ <a href="https://github.com/hxst1/Beacon-Split">Beacon-Split</a></b></samp>
-      <br><sub><code>rust</code></sub>
-      <p>Agent-first development workspace. Manage Claude Code sessions, terminals, files and Git across multiple projects at once — zero context switching.</p>
-    </td>
-    <td width="50%" valign="top">
-      <samp><b>▸ <a href="https://github.com/hxst1/Gameboy4me">Gameboy4me</a></b></samp>
-      <br><sub><code>rust</code> <code>wasm</code> <code>next.js</code></sub>
-      <p>Low-level hardware emulation of the classic Game Boy architecture, compiled to WebAssembly and playable in the browser.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <samp><b>▸ <a href="https://github.com/hxst1/Colors4dev">Colors4dev</a></b></samp>
-      <br><sub><code>next.js</code> <code>typescript</code></sub>
-      <p>Instant accessible palette generator with built-in WCAG contrast checks and CSS, Tailwind &amp; SCSS exports.</p>
-    </td>
-    <td width="50%" valign="top">
-      <samp><b>▸ <a href="https://github.com/hxst1/Json4dev">Json4dev</a></b></samp>
-      <br><sub><code>next.js</code> <code>typescript</code></sub>
-      <p>Modern, ultra-fast JSON formatter, validator and minifier built for developer productivity.</p>
-    </td>
-  </tr>
-</table>
-
-## <samp>&gt; cat ~/.stack</samp>
-
 <p align="center">
-  <samp><sub>// languages</sub></samp><br>
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,ruby,py,php,bash,html,css&theme=dark" alt="Languages" />
-  <br><br>
-  <samp><sub>// frontend</sub></samp><br>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,astro,threejs,tailwind,sass,wasm&theme=dark" alt="Frontend" />
-  <br><br>
-  <samp><sub>// backend &amp; data</sub></samp><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,rails,postgres,mongodb,redis,supabase,prisma&theme=dark" alt="Backend and data" />
-  <br><br>
-  <samp><sub>// infra, tooling &amp; testing</sub></samp><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,git,linux,figma,jest,cypress&theme=dark" alt="Infra, tooling and testing" />
+  <a href="https://ms43-virtual-lab-logs.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ms43-dark.png"><img src="./assets/ms43-light.png" width="100%" alt="MS43 Virtual Lab, in progress. Running the real firmware of a BMW engine computer (Siemens MS43, Infineon C167) in an emulator written in Rust, with every result checked against the official manual and two independent disassemblers. Rust, WebAssembly, Python, Ghidra. Public log."></picture></a>
+  <a href="https://afk-brb.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/brb-dark.png"><img src="./assets/brb-light.png" width="50%" alt="BRB, live. Free mini-games to play solo or with friends, with rankings, daily challenges and live multiplayer. Next.js, Supabase, TypeScript."></picture></a><a href="https://github.com/hxst1/Cauce"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cauce-dark.png"><img src="./assets/cauce-light.png" width="50%" alt="Cauce, open source. A minimal Git client for Linux. Stage single hunks, read a clean branch graph and switch repos with Ctrl+P. Electron, React, TypeScript."></picture></a>
+  <a href="https://github.com/hxst1/NimboMail"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nimbomail-dark.png"><img src="./assets/nimbomail-light.png" width="50%" alt="NimboMail, open source. A private email client for Linux that blocks tracking pixels, translates offline and unsubscribes in one click. Electron, React, TypeScript."></picture></a><a href="https://github.com/hxst1/TuxLens"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tuxlens-dark.png"><img src="./assets/tuxlens-light.png" width="50%" alt="TuxLens, open source. Your phone as a Linux webcam with about 80 ms of latency, background blur and auto-framing. Python, WebCodecs, PipeWire."></picture></a>
+  <a href="https://beacon-split.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/beacon-split-dark.png"><img src="./assets/beacon-split-light.png" width="50%" alt="Beacon Split, open source. A desktop workspace for Claude Code sessions, with a Rust daemon that keeps terminals alive. Rust, Tauri, React."></picture></a><a href="https://gameboy4me.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/gameboy4me-dark.png"><img src="./assets/gameboy4me-light.png" width="50%" alt="Gameboy4me, personal project. A Game Boy and Game Boy Color emulator in Rust, compiled to WebAssembly to play in the browser. Rust, WebAssembly, Next.js."></picture></a>
 </p>
 
-## <samp>&gt; top -u hxst1</samp>
+<br>
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=hxst1&show_icons=true&hide_border=true&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9&icon_color=00d4ff&ring_color=00ff9c&rank_icon=github" alt="GitHub stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hxst1&layout=compact&hide_border=true&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com/?user=hxst1&hide_border=true&background=0a0e14&ring=00ff9c&fire=00ff9c&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=00ff9c&sideLabels=00d4ff&dates=6e7681&stroke=1f2a35" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxst1/hxst1/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxst1/hxst1/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/hxst1/hxst1/output/snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
-  </picture>
-</p>
-
-<p align="center"><samp><sub><i>* language metrics cover public repos only and don't reflect total experience.</i></sub></samp></p>
-
----
-
-<p align="center">
-  <samp>[ <b>BUILDING</b> // <b>SHIPPING</b> // <b>ITERATING</b> ] &nbsp;·&nbsp; <a href="https://edu-ruiz-portfolio.vercel.app/">connection established — say hi</a></samp>
+  <sub>Software engineer at Medios y Proyectos, building the web for Red Bull.<br>TypeScript, React, Next.js, Node.js, Ruby on Rails, Rust.</sub>
 </p>
